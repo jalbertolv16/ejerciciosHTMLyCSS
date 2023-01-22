@@ -1,0 +1,78 @@
+
+h3{
+     color: black;
+
+}
+body{
+    background-color: whitesmoke;
+}
+h1{
+    color: blue;
+}
+p{
+    color: black;
+}
+
+p{
+
+    border: 1px solid black;
+    border-right: 3px solid blue;
+    border-top: 3px solid blue;
+    background-color: white;
+    padding-top: 20px;
+    padding-right : 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+table{
+    border: 1px solid black;
+    border-right: 3px solid blue;
+    border-top: 3px solid blue;
+    background-color: white;
+    padding-top: 20px;
+    padding-right : 400px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+
+}
+
+dl{
+
+
+    border: 1px solid black;
+    border-right: 3px solid blue;
+    border-top: 3px solid blue;
+    background-color: white;
+    padding-top: 20px;
+    padding-right : 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+ul{
+
+
+    border: 1px solid black;
+    border-right: 3px solid blue;
+    border-top: 3px solid blue;
+    background-color: white;
+    padding-top: 20px;
+    padding-right : 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+img{
+
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
